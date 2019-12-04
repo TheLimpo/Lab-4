@@ -8,7 +8,7 @@ class Body
 	float width, height;
 
 public:
-	Body();
+	Body(std::string colorIn, float widthIn, float heightIn);
 
 	void print();
 	~Body();

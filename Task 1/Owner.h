@@ -8,7 +8,7 @@ class Owner
 	bool allowedToDrive;
 
 public:
-	Owner();
+	Owner(std::string NameIn, std::string addressIn, bool allowedToDriveIn );
 
 	void print();
 

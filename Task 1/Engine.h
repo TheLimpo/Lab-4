@@ -2,9 +2,9 @@
 class Engine
 {
 	int numberOfCylinders;
-	float sizeInlitres;
+	float sizeInliters;
 public:
-	Engine();
+	Engine(int numberOfCylindersIn, float sizeInlitersIn);
 
 	void print();
 

@@ -1,6 +1,6 @@
 #pragma once
 #include "Engine.h"
-#include "body.h"
+#include "Body.h"
 #include "Owner.h"
 
 
@@ -11,10 +11,11 @@ class MotorVehicle
 	Body body;
 	Owner owner;
 	int numberOfTires;
-	float* tireDiameters = new float[numberOfTires];
+	float* tireDiameters;
 	std::string model;
+
 public:
-	MotorVehicle();
+	MotorVehicle(Engine engineIn, Body bodyIn, Owner ownerIn, int numberOfTiresIn, std::string modelIn);
 
 	void print();
 
