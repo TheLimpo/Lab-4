@@ -1,0 +1,10 @@
+1. I find OOP kinda confusing and doing something over the top, when I could have done something simpler.
+But I remember the lecture where Teemu showed the problem two programmers were supposed to handla and how the specifications changed during time
+and understands why it is good. I feel I need to practise more writing it. 
+
+2. I found it difficult to like get going in each task when I don't fully understands the concept of OOP, but I'm getting there I think. Need more practise.
+We sat together 5-6 people and discussing the problems together made it easier to understand how to tackle the problem.
+
+
+
+Estimated time: approx 12 hours.
